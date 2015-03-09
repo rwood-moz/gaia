@@ -1,6 +1,7 @@
 'use strict';
 
-var raptor = require('gaia-raptor');
+//var raptor = require('gaia-raptor');
+var raptor = require('/home/rwood/raptor');
 
 var options = {
   phase: 'cold',
